@@ -1,4 +1,4 @@
-package com.carriez.flutter_hbb
+package com.cuteni.bbqqxx
 
 /**
  * Handle events from flutter
